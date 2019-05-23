@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: "Arial";
     color:black;
-    background-color:bisque;
+    background-color:white;
     font-size: 16px;
 }
 #container{
@@ -15,6 +15,7 @@ body{
 #container h1{
 
     font-size: 20px;
+    color:blue;
 
 }
 #cabecera{
